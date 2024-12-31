@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">binaryConvert</string>
+    <string name="button">Result</string>
+    <string name="switcher">binaryConvert</string>
+    <string name="converting">Converting</string>
+    <string name="inputsecondvalue">InputSecondValue</string>
+    <string name="inputfirstvalue">InputFirstValue</string>
+    <string name="plus_and_convert">Plus and Convert</string>
+    <string name="binary">Binary</string>
+</resources>
